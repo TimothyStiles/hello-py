@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "hello-py"
+version = "0.0.0"
+description = "boilerplate for modern, maintainable, python libraries"
+authors = ["Timothy Stiles <tim@stiles.io>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
