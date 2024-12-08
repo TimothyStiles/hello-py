@@ -1,3 +1,6 @@
 {
-    "recommendations": ["golang.go",]
+    "recommendations": [
+        "ms-python.python",
+        "ryanluker.vscode-coverage-gutters"
+    ]
 }
